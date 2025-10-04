@@ -1,0 +1,17 @@
+blast_databases/
+__pycache__/
+.ipynb_checkpoints
+
+.env
+.venv
+env/
+venv/
+
+*.csv
+*.json
+*.xml
+*.fasta
+*.fastq
+*.vcf
+
+.DS_Store
